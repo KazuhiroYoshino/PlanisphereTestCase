@@ -1,0 +1,5 @@
+mail,pass,name,accountType,address,tel,gender,birthday,receive
+ichiro@example.com,password,R“cˆê˜Y,premium,“Œ‹“s–L“‡‹æ’r‘Ü,01234567891,man,,yes
+sakura@example.com,pass1234,¼–{‚³‚­‚ç,normal,_“ŞìŒ§‰¡•ls’ßŒ©‹æ‘å•‚Ó“ª,,woman,2000/4/1,no
+jun@example.com,pa55w0rd!,—Ñ,premium,‘åã•{‘åãs–k‹æ”~“c,01212341234,,1988/12/17,no
+yoshiki@example.com,pass-pass,–Ø‘º—Ç÷,normal,,01298765432,,1992/8/31,yes
