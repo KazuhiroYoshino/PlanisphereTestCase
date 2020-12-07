@@ -1,5 +1,11 @@
-mail,pass,name,accountType,address,tel,gender,birthday,receive
-ichiro@example.com,password,R“cˆê˜Y,premium,“Œ‹“s–L“‡‹æ’r‘Ü,01234567891,man,,yes
-sakura@example.com,pass1234,¼–{‚³‚­‚ç,normal,_“ŞìŒ§‰¡•ls’ßŒ©‹æ‘å•‚Ó“ª,,woman,2000/4/1,no
-jun@example.com,pa55w0rd!,—Ñ,premium,‘åã•{‘åãs–k‹æ”~“c,01212341234,,1988/12/17,no
-yoshiki@example.com,pass-pass,–Ø‘º—Ç÷,normal,,01298765432,,1992/8/31,yes
+id,mail,pass,pass2,name,accountType,address,tel,gender,birthday,receive
+1,ichiro@example.com,password,password,R“cˆê˜Y,premium,“Œ‹“s–L“‡‹æ’r‘Ü,01234567891,’j«,,yes
+2,sakura@example.com,pass1234,pass1234,¼–{‚³‚­‚ç,normal,_“ŞìŒ§‰¡•ls’ßŒ©‹æ‘å•‚Ó“ª,,—«,2000/4/1,no
+3,jun@example.com,pa55w0rd!,pa55w0rd!,—Ñ,premium,‘åã•{‘åãs–k‹æ”~“c,01212341234,‰ñ“š‚µ‚È‚¢,1988/12/17,no
+4,yoshiki@example.com,pass-pass,pass-pass,–Ø‘º—Ç÷,normal,,01298765432,‰ñ“š‚µ‚È‚¢,1992/8/31,yes
+5,mogu@sky.hi-ho.ne.jp,mogumogu1211,mogumogu,‹g–ì˜aG,premium,“Ş—ÇŒ§Š‹és•D“c369-17,07456991267,’j«,,yes
+6,mogu2@sky.hi-ho.ne.jp,mogumogu1211,mogumogu1211,‹g–ì˜aG,normal,“Ş—ÇŒ§Š‹és•D“c369-17,0745699126,—«,1960/12/11,no
+7,mogu3@sky.hi-ho.ne.jp,mogu,mogu,‹g–ì˜aG,normal,,07456991267,—«,1960/12/11,yes
+8,,mogumogu1211,mogumogu1211,‹g–ì˜aG,normal,“Ş—ÇŒ§Š‹és•D“c369-17,,—«,1960/12/11,no
+9,mogu5@sky.hi-ho.ne.jp,mogumogu1211,mogumogu1211,,normal,“Ş—ÇŒ§Š‹és•D“c369-17,07456991267,‰ñ“š‚µ‚È‚¢,1960/12/11,yes
+10,mogu6@sky.hi-ho.ne.jp,,,‹g–ì˜aG,normal,“Ş—ÇŒ§Š‹és•D“c369-17,07456991267,—«,,no
