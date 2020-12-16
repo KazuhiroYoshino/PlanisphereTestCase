@@ -96,7 +96,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC001,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=6,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=6,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTFRIDAY,reserveDate_TC001,date,,,,,1050
@@ -121,7 +121,7 @@ TESTPRICE,TestPrice_TC001,total-bill,552000,,,,1000
 //期間検証_TC001,,,,,,,0
 TESTTERM,reserveTermTest_TC001,term,,,,,1000
 //人数検証_TC001,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC001,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC001,head-count,6名様,,,,1000
 //追加プラン検証_TC001,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC001,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC001,//*[@id="plans"]/ul/li[2]/text(),昼からチェックインプラン,,,,1000
@@ -140,7 +140,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC002,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=6,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=6,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTSUNDAY,reserveDate_TC002,date,,,,,1050
@@ -164,7 +164,7 @@ TESTPRICE,TestPrice_TC002,total-bill,66000,,,,1000
 //期間検証_TC002,,,,,,,0
 TESTTERM,reserveTermTest_TC002,term,,,,,1000
 //人数検証_TC002,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC002,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC002,head-count,6名様,,,,1000
 //追加プラン検証_TC002,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC002,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC002,,,,,,,0
@@ -182,7 +182,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC003,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=6,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=6,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTUESDAY,reserveDate_TC003,date,,,,,1050
@@ -207,7 +207,7 @@ TESTPRICE,TestPrice_TC003,total-bill,498000,,,,1000
 //期間検証_TC003,,,,,,,0
 TESTTERM,reserveTermTest_TC003,term,,,,,1000
 //人数検証_TC003,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC003,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC003,head-count,6名様,,,,1000
 //追加プラン検証_TC003,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC003,//*[@id="plans"]/ul/li/text(),昼からチェックインプラン,,,,1000
 //名前検証_TC003,,,,,,,0
@@ -225,7 +225,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC004,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=0,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=0,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTSATURDAY,reserveDate_TC004,date,,,,,1050
@@ -250,7 +250,7 @@ TESTPRICE,TestPrice_TC004,total-bill,585000,,,,1000
 //期間検証_TC004,,,,,,,0
 TESTTERM,reserveTermTest_TC004,term,,,,,1000
 //人数検証_TC004,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC004,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC004,head-count,9名様,,,,1000
 //追加プラン検証_TC004,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC004,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC004,,,,,,,0
@@ -268,7 +268,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC005,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=0,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=0,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTHURSDAY,reserveDate_TC005,date,,,,,1050
@@ -293,7 +293,7 @@ TESTPRICE,TestPrice_TC005,total-bill,65000,,,,1000
 //期間検証_TC005,,,,,,,0
 TESTTERM,reserveTermTest_TC005,term,,,,,1000
 //人数検証_TC005,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC005,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC005,head-count,1名様,,,,1000
 //追加プラン検証_TC005,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC005,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC005,,,,,,,0
@@ -311,7 +311,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC006,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=0,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=0,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTUESDAY,reserveDate_TC006,date,,,,,1050
@@ -335,7 +335,7 @@ TESTPRICE,TestPrice_TC006,total-bill,65000,,,,1000
 //期間検証_TC006,,,,,,,0
 TESTTERM,reserveTermTest_TC006,term,,,,,1000
 //人数検証_TC006,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC006,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC006,head-count,1名様,,,,1000
 //追加プラン検証_TC006,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC006,//*[@id="plans"]/ul/li/text(),昼からチェックインプラン,,,,1000
 //名前検証_TC006,,,,,,,0
@@ -353,7 +353,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC007,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=8,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=8,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTMONDAY,reserveDate_TC007,date,,,,,1050
@@ -378,7 +378,7 @@ TESTPRICE,TestPrice_TC007,total-bill,36000,,,,1000
 //期間検証_TC007,,,,,,,0
 TESTTERM,reserveTermTest_TC007,term,,,,,1000
 //人数検証_TC007,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC007,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC007,head-count,2名様,,,,1000
 //追加プラン検証_TC007,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC007,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC007,,,,,,,0
@@ -396,7 +396,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC008,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=8,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=8,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTSATURDAY,reserveDate_TC008,date,,,,,1050
@@ -420,7 +420,7 @@ TESTPRICE,TestPrice_TC008,total-bill,36000,,,,1000
 //期間検証_TC008,,,,,,,0
 TESTTERM,reserveTermTest_TC008,term,,,,,1000
 //人数検証_TC008,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC008,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC008,head-count,2名様,,,,1000
 //追加プラン検証_TC008,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC008,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC008,,,,,,,0
@@ -438,7 +438,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC009,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=8,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=8,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTHURSDAY,reserveDate_TC009,date,,,,,1050
@@ -463,7 +463,7 @@ TESTPRICE,TestPrice_TC009,total-bill,32000,,,,1000
 //期間検証_TC009,,,,,,,0
 TESTTERM,reserveTermTest_TC009,term,,,,,1000
 //人数検証_TC009,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC009,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC009,head-count,2名様,,,,1000
 //追加プラン検証_TC009,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC009,//*[@id="plans"],なし,,,,1000
 //名前検証_TC009,,,,,,,0
@@ -481,7 +481,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC010,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=8,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=8,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTWEDNESDAY,reserveDate_TC010,date,,,,,1050
@@ -505,7 +505,7 @@ TESTPRICE,TestPrice_TC010,total-bill,36000,,,,1000
 //期間検証_TC010,,,,,,,0
 TESTTERM,reserveTermTest_TC010,term,,,,,1000
 //人数検証_TC010,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC010,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC010,head-count,2名様,,,,1000
 //追加プラン検証_TC010,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC010,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
 //名前検証_TC010,,,,,,,0
@@ -523,7 +523,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC011,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=9,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=9,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTFRIDAY,reserveDate_TC011,date,,,,,1050
@@ -548,7 +548,7 @@ TESTPRICE,TestPrice_TC011,total-bill,513000,,,,1000
 //期間検証_TC011,,,,,,,0
 TESTTERM,reserveTermTest_TC011,term,,,,,1000
 //人数検証_TC011,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC011,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC011,head-count,9名様,,,,1000
 //追加プラン検証_TC011,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC011,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC011,//*[@id="plans"]/ul/li[2]/text(),昼からチェックインプラン,,,,1000
@@ -567,7 +567,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC012,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=9,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=9,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTSATURDAY,reserveDate_TC012,date,,,,,1050
@@ -592,7 +592,7 @@ TESTPRICE,TestPrice_TC012,total-bill,55000,,,,1000
 //期間検証_TC012,,,,,,,0
 TESTTERM,reserveTermTest_TC012,term,,,,,1000
 //人数検証_TC012,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC012,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC012,head-count,1名様,,,,1000
 //追加プラン検証_TC012,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC012,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
 //名前検証_TC012,,,,,,,0
@@ -610,7 +610,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC013,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=9,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=9,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTUESDAY,reserveDate_TC013,date,,,,,1050
@@ -635,7 +635,7 @@ TESTPRICE,TestPrice_TC013,total-bill,50000,,,,1000
 //期間検証_TC013,,,,,,,0
 TESTTERM,reserveTermTest_TC013,term,,,,,1000
 //人数検証_TC013,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC013,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC013,head-count,1名様,,,,1000
 //追加プラン検証_TC013,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC013,//*[@id="plans"],なし,,,,1000
 //名前検証_TC013,,,,,,,0
@@ -653,7 +653,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC014,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=9,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=9,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTWEDNESDAY,reserveDate_TC014,date,,,,,1050
@@ -677,7 +677,7 @@ TESTPRICE,TestPrice_TC014,total-bill,10000,,,,1000
 //期間検証_TC014,,,,,,,0
 TESTTERM,reserveTermTest_TC014,term,,,,,1000
 //人数検証_TC014,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC014,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC014,head-count,1名様,,,,1000
 //追加プラン検証_TC014,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC014,//*[@id="plans"],なし,,,,1000
 //名前検証_TC014,,,,,,,0
@@ -695,7 +695,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC015,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=5,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=5,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTHURSDAY,reserveDate_TC015,date,,,,,1050
@@ -720,7 +720,7 @@ TESTPRICE,TestPrice_TC015,total-bill,8500,,,,1000
 //期間検証_TC015,,,,,,,0
 TESTTERM,reserveTermTest_TC015,term,,,,,1000
 //人数検証_TC015,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC015,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC015,head-count,1名様,,,,1000
 //追加プラン検証_TC015,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC015,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
 //名前検証_TC015,,,,,,,0
@@ -738,7 +738,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC016,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=5,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=5,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTUESDAY,reserveDate_TC016,date,,,,,1050
@@ -762,7 +762,7 @@ TESTPRICE,TestPrice_TC016,total-bill,69500,,,,1000
 //期間検証_TC016,,,,,,,0
 TESTTERM,reserveTermTest_TC016,term,,,,,1000
 //人数検証_TC016,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC016,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC016,head-count,1名様,,,,1000
 //追加プラン検証_TC016,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC016,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC016,,,,,,,0
@@ -780,7 +780,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC017,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=5,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=5,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTWEDNESDAY,reserveDate_TC017,date,,,,,1050
@@ -805,7 +805,7 @@ TESTPRICE,TestPrice_TC017,total-bill,69500,,,,1000
 //期間検証_TC017,,,,,,,0
 TESTTERM,reserveTermTest_TC017,term,,,,,1000
 //人数検証_TC017,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC017,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC017,head-count,1名様,,,,1000
 //追加プラン検証_TC017,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC017,//*[@id="plans"]/ul/li/text(),昼からチェックインプラン,,,,1000
 //名前検証_TC017,,,,,,,0
@@ -823,7 +823,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC018,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=4,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=4,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTHURSDAY,reserveDate_TC018,date,,,,,1050
@@ -847,7 +847,7 @@ TESTPRICE,TestPrice_TC018,total-bill,17000,,,,1000
 //期間検証_TC018,,,,,,,0
 TESTTERM,reserveTermTest_TC018,term,,,,,1000
 //人数検証_TC018,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC018,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC018,head-count,2名様,,,,1000
 //追加プラン検証_TC018,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC018,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC018,//*[@id="plans"]/ul/li[2]/text(),お得な観光プラン,,,,1000
@@ -866,7 +866,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC019,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=7,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=7,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTSUNDAY,reserveDate_TC019,date,,,,,1050
@@ -890,7 +890,7 @@ TESTPRICE,TestPrice_TC019,total-bill,32000,,,,1000
 //期間検証_TC019,,,,,,,0
 TESTTERM,reserveTermTest_TC019,term,,,,,1000
 //人数検証_TC019,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC019,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC019,head-count,1名様,,,,1000
 //追加プラン検証_TC019,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC019,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC019,//*[@id="plans"]/ul/li[2]/text(),昼からチェックインプラン,,,,1000
@@ -909,7 +909,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC020,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=7,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=7,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTTHURSDAY,reserveDate_TC020,date,,,,,1050
@@ -934,7 +934,7 @@ TESTPRICE,TestPrice_TC020,total-bill,180000,,,,1000
 //期間検証_TC020,,,,,,,0
 TESTTERM,reserveTermTest_TC020,term,,,,,1000
 //人数検証_TC020,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC020,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC020,head-count,6名様,,,,1000
 //追加プラン検証_TC020,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC020,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
 //名前検証_TC020,,,,,,,0
@@ -952,7 +952,7 @@ PARENTACTIVE,,,,,,,1000
 REFRESH,,,,,,,
 //TC021,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=7,,,,3000
+EVENTLINKHREF,,./reserve.html?plan-id=7,,,,,3000
 PARENT,,,,,,,850
 CHILD,,,,,,,850
 EVENTWEDNESDAY,reserveDate_TC021,date,,,,,1050
@@ -977,7 +977,7 @@ TESTPRICE,TestPrice_TC021,total-bill,66000,,,,1000
 //期間検証_TC021,,,,,,,0
 TESTTERM,reserveTermTest_TC021,term,,,,,1000
 //人数検証_TC021,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC021,head-count,,,,,1000
+TESTTEXTID,reserveHeadCountTest_TC021,head-count,6名様,,,,1000
 //追加プラン検証_TC021,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC021,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
 //名前検証_TC021,,,,,,,0
@@ -991,50 +991,6 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC021,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC021,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC021,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
-REFRESH,,,,,,,
-//TC022,,,,,,,0
-EVENTLINK,,宿泊予約,,,,,1100
-EVENTLINKHREF,,,./reserve.html?plan-id=6,,,,3000
-PARENT,,,,,,,850
-CHILD,,,,,,,850
-EVENTMONDAY,reserveDate_TC022,date,,,,,1050
-EVENTX,,//div[@id='ui-datepicker-div']/div[2]/button,,,,,1000
-EVENTTERM,reserveTermTest_TC022,term,1,,,,1000
-EVENTTEXTINPUT,reserveHeadCountTest_TC022,head-count,6,,,,1000
-EVENTCHECKBOX,Breakfast_TC022,breakfast,off,,,,1000
-EVENTCHECKBOX,EarlyCheckIn_TC022,early-check-in,off,,,,1000
-EVENTCHECKBOX,SightSeeing_TC022,sightseeing,on,,,,1000
-EVENTTEXTINPUT,GuestName_TC022,username,,,,,1000
-EVENTDROPDOWN,Contact_TC022,contact,メールでのご連絡,,,,1000
-EVENTCONTACT,ContactEmail_TC022,email,,,,,1000
-EVENTCONTACT,ContactTel_TC022,tel,,,,,1000
-EVENTCONTACT,CommentTest,comment,123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC,,,,1200
-TESTPRICE,TestPrice_TC022,total-bill,66000,,,,1000
-//部屋情報検証_TC022,,,,,,,0
-FRAME,,room,,,,,780
-TESTTEXTX,roomTypeTest_TC022,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-FRAMEDEFAULT,,,,,,,750
-EVENTID,GoToNext,submit-button,,,,,1150
-//合計金額検証_TC022,,,,,,,0
-TESTPRICE,TestPrice_TC022,total-bill,66000,,,,1000
-//期間検証_TC022,,,,,,,0
-TESTTERM,reserveTermTest_TC022,term,,,,,1000
-//人数検証_TC022,,,,,,,0
-TESTTEXTID,reserveHeadCountTest_TC022,head-count,,,,,1000
-//追加プラン検証_TC022,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC022,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
-//名前検証_TC022,,,,,,,0
-TESTTEXTID,NameTest_TC022,username,,,,,1000
-//確認のご連絡検証_TC022,,,,,,,0
-TESTCONTACT,contactTest_TC022,contact,メールでのご連絡：,,,,1000
-//ご要望の検証_TC022,,,,,,,
-TESTTEXTID,commentTest_TC022,comment,123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC123456789ABC,,,,1000
-//予約確定_TC022,,,,,,,
-EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
-TESTTEXTX,reservedMessageTest_TC022,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
-TESTTEXTX,reserveThanksTest_TC022,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
-EVENTX,reservePageClose_TC022,(//button[@type='button'])[3],,,,,1280
 PARENTACTIVE,,,,,,,1000
 
 cREFRESH,,,,,,1000
