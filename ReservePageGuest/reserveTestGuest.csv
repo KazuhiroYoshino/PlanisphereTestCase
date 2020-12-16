@@ -114,7 +114,7 @@ TESTPRICE,TestPrice_TC001,total-bill,552000,,,,1000
 //部屋情報検証_TC001,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC001,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC001,,,,,,,0
@@ -124,8 +124,8 @@ TESTTERM,reserveTermTest_TC001,term,,,,,1000
 //人数検証_TC001,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC001,head-count,6名様,,,,1000
 //追加プラン検証_TC001,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC001,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
-TESTTEXTX,optionPlanTest02_TC001,//*[@id="plans"]/ul/li[2]/text(),昼からチェックインプラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC001,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest02_TC001,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC001,,,,,,,0
 TESTTEXTID,NameTest_TC001,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC001,,,,,,,0
@@ -158,7 +158,7 @@ TESTPRICE,TestPrice_TC002,total-bill,66000,,,,1000
 //部屋情報検証_TC002,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC002,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC002,,,,,,,0
@@ -168,7 +168,7 @@ TESTTERM,reserveTermTest_TC002,term,,,,,1000
 //人数検証_TC002,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC002,head-count,6名様,,,,1000
 //追加プラン検証_TC002,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC002,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC002,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC002,,,,,,,0
 TESTTEXTID,NameTest_TC002,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC002,,,,,,,0
@@ -202,7 +202,7 @@ TESTPRICE,TestPrice_TC003,total-bill,498000,,,,1000
 //部屋情報検証_TC003,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC003,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC003,,,,,,,0
@@ -212,7 +212,7 @@ TESTTERM,reserveTermTest_TC003,term,,,,,1000
 //人数検証_TC003,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC003,head-count,6名様,,,,1000
 //追加プラン検証_TC003,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC003,//*[@id="plans"]/ul/li/text(),昼からチェックインプラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC003,//*[@id="plans"]/ul/li,昼からチェックインプラン,,,,1000
 //名前検証_TC003,,,,,,,0
 TESTTEXTID,NameTest_TC003,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC003,,,,,,,0
@@ -255,7 +255,7 @@ TESTTERM,reserveTermTest_TC004,term,,,,,1000
 //人数検証_TC004,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC004,head-count,9名様,,,,1000
 //追加プラン検証_TC004,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC004,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC004,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC004,,,,,,,0
 TESTTEXTID,NameTest_TC004,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC004,,,,,,,0
@@ -298,7 +298,7 @@ TESTTERM,reserveTermTest_TC005,term,,,,,1000
 //人数検証_TC005,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC005,head-count,1名様,,,,1000
 //追加プラン検証_TC005,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC005,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC005,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC005,,,,,,,0
 TESTTEXTID,NameTest_TC005,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC005,,,,,,,0
@@ -340,7 +340,7 @@ TESTTERM,reserveTermTest_TC006,term,,,,,1000
 //人数検証_TC006,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC006,head-count,1名様,,,,1000
 //追加プラン検証_TC006,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC006,//*[@id="plans"]/ul/li/text(),昼からチェックインプラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC006,//*[@id="plans"]/ul/li,昼からチェックインプラン,,,,1000
 //名前検証_TC006,,,,,,,0
 TESTTEXTID,NameTest_TC006,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC006,,,,,,,0
@@ -383,7 +383,7 @@ TESTTERM,reserveTermTest_TC007,term,,,,,1000
 //人数検証_TC007,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC007,head-count,2名様,,,,1000
 //追加プラン検証_TC007,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC007,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC007,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC007,,,,,,,0
 TESTTEXTID,NameTest_TC007,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC007,,,,,,,0
@@ -425,7 +425,7 @@ TESTTERM,reserveTermTest_TC008,term,,,,,1000
 //人数検証_TC008,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC008,head-count,2名様,,,,1000
 //追加プラン検証_TC008,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC008,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC008,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC008,,,,,,,0
 TESTTEXTID,NameTest_TC008,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC008,,,,,,,0
@@ -510,7 +510,7 @@ TESTTERM,reserveTermTest_TC010,term,,,,,1000
 //人数検証_TC010,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC010,head-count,2名様,,,,1000
 //追加プラン検証_TC010,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC010,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest01_TC010,//*[@id="plans"]/ul/li,朝食バイキング,,,,1000
 //名前検証_TC010,,,,,,,0
 TESTTEXTID,NameTest_TC010,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC010,,,,,,,0
@@ -544,7 +544,7 @@ TESTPRICE,TestPrice_TC011,total-bill,513000,,,,1000
 //部屋情報検証_TC011,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC011,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC011,,,,,,,0
@@ -554,8 +554,8 @@ TESTTERM,reserveTermTest_TC011,term,,,,,1000
 //人数検証_TC011,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC011,head-count,9名様,,,,1000
 //追加プラン検証_TC011,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC011,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
-TESTTEXTX,optionPlanTest02_TC011,//*[@id="plans"]/ul/li[2]/text(),昼からチェックインプラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC011,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest02_TC011,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC011,,,,,,,0
 TESTTEXTID,NameTest_TC011,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC011,,,,,,,0
@@ -589,7 +589,7 @@ TESTPRICE,TestPrice_TC012,total-bill,55000,,,,1000
 //部屋情報検証_TC012,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC012,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC012,,,,,,,0
@@ -599,7 +599,7 @@ TESTTERM,reserveTermTest_TC012,term,,,,,1000
 //人数検証_TC012,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC012,head-count,1名様,,,,1000
 //追加プラン検証_TC012,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC012,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest01_TC012,//*[@id="plans"]/ul/li,朝食バイキング,,,,1000
 //名前検証_TC012,,,,,,,0
 TESTTEXTID,NameTest_TC012,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC012,,,,,,,0
@@ -633,7 +633,7 @@ TESTPRICE,TestPrice_TC013,total-bill,50000,,,,1000
 //部屋情報検証_TC013,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC013,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC013,,,,,,,0
@@ -676,7 +676,7 @@ TESTPRICE,TestPrice_TC014,total-bill,10000,,,,1000
 //部屋情報検証_TC014,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC014,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC014,,,,,,,0
@@ -729,7 +729,7 @@ TESTTERM,reserveTermTest_TC015,term,,,,,1000
 //人数検証_TC015,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC015,head-count,1名様,,,,1000
 //追加プラン検証_TC015,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC015,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest01_TC015,//*[@id="plans"]/ul/li,朝食バイキング,,,,1000
 //名前検証_TC015,,,,,,,0
 TESTTEXTID,NameTest_TC015,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC015,,,,,,,0
@@ -771,7 +771,7 @@ TESTTERM,reserveTermTest_TC016,term,,,,,1000
 //人数検証_TC016,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC016,head-count,1名様,,,,1000
 //追加プラン検証_TC016,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC016,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC016,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC016,,,,,,,0
 TESTTEXTID,NameTest_TC016,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC016,,,,,,,0
@@ -814,7 +814,7 @@ TESTTERM,reserveTermTest_TC017,term,,,,,1000
 //人数検証_TC017,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC017,head-count,1名様,,,,1000
 //追加プラン検証_TC017,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC017,//*[@id="plans"]/ul/li/text(),昼からチェックインプラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC017,//*[@id="plans"]/ul/li,昼からチェックインプラン,,,,1000
 //名前検証_TC017,,,,,,,0
 TESTTEXTID,NameTest_TC017,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC017,,,,,,,0
@@ -856,8 +856,8 @@ TESTTERM,reserveTermTest_TC018,term,,,,,1000
 //人数検証_TC018,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC018,head-count,2名様,,,,1000
 //追加プラン検証_TC018,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC018,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
-TESTTEXTX,optionPlanTest02_TC018,//*[@id="plans"]/ul/li[2]/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC018,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest02_TC018,//*[@id="plans"]/ul/li[2],お得な観光プラン,,,,1000
 //名前検証_TC018,,,,,,,0
 TESTTEXTID,NameTest_TC018,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC018,,,,,,,0
@@ -890,7 +890,7 @@ TESTPRICE,TestPrice_TC019,total-bill,32000,,,,1000
 //部屋情報検証_TC019,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC019,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC019,,,,,,,0
@@ -900,8 +900,8 @@ TESTTERM,reserveTermTest_TC019,term,,,,,1000
 //人数検証_TC019,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC019,head-count,1名様,,,,1000
 //追加プラン検証_TC019,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC019,//*[@id="plans"]/ul/li[1]/text(),朝食バイキング,,,,1000
-TESTTEXTX,optionPlanTest02_TC019,//*[@id="plans"]/ul/li[2]/text(),昼からチェックインプラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC019,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest02_TC019,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC019,,,,,,,0
 TESTTEXTID,NameTest_TC019,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC019,,,,,,,0
@@ -935,7 +935,7 @@ TESTPRICE,TestPrice_TC020,total-bill,180000,,,,1000
 //部屋情報検証_TC020,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC020,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC020,,,,,,,0
@@ -945,7 +945,7 @@ TESTTERM,reserveTermTest_TC020,term,,,,,1000
 //人数検証_TC020,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC020,head-count,6名様,,,,1000
 //追加プラン検証_TC020,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC020,//*[@id="plans"]/ul/li/text(),朝食バイキング,,,,1000
+TESTTEXTX,optionPlanTest01_TC020,//*[@id="plans"]/ul/li,朝食バイキング,,,,1000
 //名前検証_TC020,,,,,,,0
 TESTTEXTID,NameTest_TC020,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC020,,,,,,,0
@@ -979,7 +979,7 @@ TESTPRICE,TestPrice_TC021,total-bill,66000,,,,1000
 //部屋情報検証_TC021,,,,,,,0
 cFRAME,,room,,,,,780
 cTESTTEXTX,roomTypeTest_TC021,/html/body/div/div[1]/div/h5,部屋指定なし,,,,1000
-TESTTEXTID,roomTypeTest,room-ifo,部屋指定なし,,,,1000
+TESTTEXTID,roomTypeTest,room-info,部屋指定なし,,,,1000
 cFRAMEDEFAULT,,,,,,,750
 EVENTID,GoToNext,submit-button,,,,,1150
 //合計金額検証_TC021,,,,,,,0
@@ -989,7 +989,7 @@ TESTTERM,reserveTermTest_TC021,term,,,,,1000
 //人数検証_TC021,,,,,,,0
 TESTTEXTID,reserveHeadCountTest_TC021,head-count,6名様,,,,1000
 //追加プラン検証_TC021,,,,,,,0
-TESTTEXTX,optionPlanTest01_TC021,//*[@id="plans"]/ul/li/text(),お得な観光プラン,,,,1000
+TESTTEXTX,optionPlanTest01_TC021,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC021,,,,,,,0
 TESTTEXTID,NameTest_TC021,username,吉野和宏,,,,1000
 //確認のご連絡検証_TC021,,,,,,,0
