@@ -43,7 +43,7 @@ TESTTEXTX,reservedMessageTest,//div[@id='success-modal']/div/div/div/h5,予約を完
 TESTTEXTX,reserveThanksTest,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1000
 EVENTX,reservePageClose,(//button[@type='button'])[3],,,,,1000
 
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 
 REFRESH,,,,,,1000
 //非会員予約画面
@@ -91,7 +91,7 @@ TESTTEXTX,reservedMessageTest,//div[@id='success-modal']/div/div/div/h5,予約を完
 TESTTEXTX,reserveThanksTest,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1000
 EVENTX,reservePageClose,(//button[@type='button'])[3],,,,,1000
 
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 
 REFRESH,,,,,,,
 //TC001,,,,,,,0
@@ -137,7 +137,8 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC001,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC001,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC001,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
+
 REFRESH,,,,,,,
 //TC002,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -180,7 +181,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC002,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC002,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC002,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC003,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -224,7 +225,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC003,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC003,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC003,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC004,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -267,7 +268,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC004,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC004,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC004,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC005,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -310,7 +311,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC005,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC005,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC005,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC006,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -352,7 +353,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC006,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC006,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC006,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC007,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -395,7 +396,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC007,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC007,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC007,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC008,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -437,7 +438,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC008,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC008,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC008,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC009,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -480,7 +481,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC009,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC009,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC009,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC010,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -522,7 +523,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC010,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC010,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC010,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC011,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -567,7 +568,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC011,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC011,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC011,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC012,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -611,7 +612,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC012,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC012,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC012,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC013,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -655,7 +656,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC013,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC013,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC013,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC014,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -698,7 +699,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC014,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC014,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC014,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC015,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -741,7 +742,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC015,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC015,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC015,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC016,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -783,7 +784,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC016,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC016,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC016,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC017,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -826,7 +827,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC017,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC017,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC017,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC018,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -869,7 +870,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC018,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC018,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC018,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC019,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -913,7 +914,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC019,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC019,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC019,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC020,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -957,7 +958,7 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC020,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC020,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC020,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 REFRESH,,,,,,,
 //TC021,,,,,,,0
 EVENTLINK,,宿泊予約,,,,,1100
@@ -1001,9 +1002,9 @@ EVENTX,ReserveFix_,//button[@type='button'],,,,,1250
 TESTTEXTX,reservedMessageTest_TC021,//div[@id='success-modal']/div/div/div/h5,予約を完了しました,,,,1260
 TESTTEXTX,reserveThanksTest_TC021,//div[@id='success-modal']/div/div/div[2]/p,ご来館、心よりお待ちしております。,,,,1270
 EVENTX,reservePageClose_TC021,(//button[@type='button'])[3],,,,,1280
-PARENTACTIVE,,,,,,,1000
+PARENTACTIVE,,,,,,,2500
 
 cREFRESH,,,,,,1000
 cCHILDCLOSE,,,,,,,1000
-cPARENTACTIVE,,,,,,,1000
+cPARENTACTIVE,,,,,,,2500
 EVENTLINK,,ホーム,,,,,1000
