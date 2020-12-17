@@ -1,5 +1,5 @@
 testCaseType,testTitle,testConf_01,testConf_02,testConf_03,testConf_04,testConf_05,waitTime
-EVENTLINK,ログイン,,,,,1000
+EVENTLINK,,ログイン,,,,,1000
 EVENTTEXTINPUT,LoginTest,email,yoshiki@example.com,,,,1000
 EVENTTEXTINPUT,LoginTest,password,pass-pass,,,,1000
 EVENTID,,login-button,,,,,1000
@@ -1260,6 +1260,7 @@ TESTTEXTX,reserveThanksTest_TC050,//div[@id='success-modal']/div/div/div[2]/p,ご
 EVENTX,reservePageClose_TC050,(//button[@type='button'])[3],,,,,1280
 PARENTACTIVE,,,,,,,1000
 
+EVENTCSSSELECTOR,,button.btn.btn-outline-success.my-2.my-sm-0,,,,,1000
 cREFRESH,,,,,,1000
 cCHILDCLOSE,,,,,,,1000
 cPARENTACTIVE,,,,,,,2500
