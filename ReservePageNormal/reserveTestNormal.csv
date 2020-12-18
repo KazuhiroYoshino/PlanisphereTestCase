@@ -3,7 +3,7 @@ EVENTLINK,,ÉçÉOÉCÉì,,,,,1000
 EVENTTEXTINPUT,LoginTest,email,yoshiki@example.com,,,,1000
 EVENTTEXTINPUT,LoginTest,password,pass-pass,,,,1000
 EVENTID,,login-button,,,,,1000
-REFRESH,,,,,,,1000
+GETUSERINFO,,email,tel,username,,,1000
 
 REFRESH,,,,,,,
 //TC022,,,,,,,0
