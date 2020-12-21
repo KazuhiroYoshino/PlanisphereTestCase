@@ -35,7 +35,7 @@ TESTTEXTID,reserveHeadCountTest_TC022,head-count,6名様,,,,1000
 //追加プラン検証_TC022,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC022,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC022,,,,,,,0
-TESTTEXTID,NameTest_TC022,username,,,,,1000
+TESTGUESTNAME,NameTest_TC022,username,,,,,1000
 //確認のご連絡検証_TC022,,,,,,,0
 TESTCONTACT,contactTest_TC022,contact,メール,,,,1000
 //ご要望の検証_TC022,,,,,,,
@@ -76,7 +76,7 @@ TESTTEXTID,reserveHeadCountTest_TC023,head-count,6名様,,,,1000
 //追加プラン検証_TC023,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC023,//*[@id="plans"],なし,,,,1000
 //名前検証_TC023,,,,,,,0
-TESTTEXTID,NameTest_TC023,username,,,,,1000
+TESTGUESTNAME,NameTest_TC023,username,,,,,1000
 //確認のご連絡検証_TC023,,,,,,,0
 TESTCONTACT,contactTest_TC023,contact,メール,,,,1000
 //ご要望の検証_TC023,,,,,,,
@@ -118,7 +118,7 @@ TESTTEXTID,reserveHeadCountTest_TC024,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC024,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC024,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC024,,,,,,,0
-TESTTEXTID,NameTest_TC024,username,,,,,1000
+TESTGUESTNAME,NameTest_TC024,username,,,,,1000
 //確認のご連絡検証_TC024,,,,,,,0
 TESTCONTACT,contactTest_TC024,contact,希望しない,,,,1000
 //ご要望の検証_TC024,,,,,,,
@@ -160,7 +160,7 @@ TESTTEXTID,reserveHeadCountTest_TC025,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC025,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC025,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC025,,,,,,,0
-TESTTEXTID,NameTest_TC025,username,,,,,1000
+TESTGUESTNAME,NameTest_TC025,username,,,,,1000
 //確認のご連絡検証_TC025,,,,,,,0
 TESTCONTACT,contactTest_TC025,contact,メール,,,,1000
 //ご要望の検証_TC025,,,,,,,
@@ -202,7 +202,7 @@ TESTTEXTID,reserveHeadCountTest_TC026,head-count,9名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC026,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC026,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC026,,,,,,,0
-TESTTEXTID,NameTest_TC026,username,,,,,1000
+TESTGUESTNAME,NameTest_TC026,username,,,,,1000
 //確認のご連絡検証_TC026,,,,,,,0
 TESTCONTACT,contactTest_TC026,contact,希望しない,,,,1000
 //ご要望の検証_TC026,,,,,,,
@@ -243,7 +243,7 @@ TESTTEXTID,reserveHeadCountTest_TC027,head-count,1名様,,,,1000
 //追加プラン検証_TC027,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC027,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC027,,,,,,,0
-TESTTEXTID,NameTest_TC027,username,,,,,1000
+TESTGUESTNAME,NameTest_TC027,username,,,,,1000
 //確認のご連絡検証_TC027,,,,,,,0
 TESTCONTACT,contactTest_TC027,contact,メール,,,,1000
 //ご要望の検証_TC027,,,,,,,
@@ -285,7 +285,7 @@ TESTTEXTID,reserveHeadCountTest_TC028,head-count,9名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC028,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC028,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC028,,,,,,,0
-TESTTEXTID,NameTest_TC028,username,,,,,1000
+TESTGUESTNAME,NameTest_TC028,username,,,,,1000
 //確認のご連絡検証_TC028,,,,,,,0
 TESTCONTACT,contactTest_TC028,contact,希望しない,,,,1000
 //ご要望の検証_TC028,,,,,,,
@@ -326,7 +326,7 @@ TESTTEXTID,reserveHeadCountTest_TC029,head-count,9名様,,,,1000
 //追加プラン検証_TC029,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC029,//*[@id="plans"],なし,,,,1000
 //名前検証_TC029,,,,,,,0
-TESTTEXTID,NameTest_TC029,username,,,,,1000
+TESTGUESTNAME,NameTest_TC029,username,,,,,1000
 //確認のご連絡検証_TC029,,,,,,,0
 TESTCONTACT,contactTest_TC029,contact,メール,,,,1000
 //ご要望の検証_TC029,,,,,,,
@@ -369,7 +369,7 @@ TESTTEXTID,reserveHeadCountTest_TC030,head-count,1名様,,,,1000
 //追加プラン検証_TC030,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC030,//*[@id="plans"]/ul/li,朝食バイキング,,,,1000
 //名前検証_TC030,,,,,,,0
-TESTTEXTID,NameTest_TC030,username,,,,,1000
+TESTGUESTNAME,NameTest_TC030,username,,,,,1000
 //確認のご連絡検証_TC030,,,,,,,0
 TESTCONTACT,contactTest_TC030,contact,電話,,,,1000
 //ご要望の検証_TC030,,,,,,,
@@ -412,7 +412,7 @@ TESTTEXTID,reserveHeadCountTest_TC031,head-count,9名様,,,,1000
 //追加プラン検証_TC031,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC031,//*[@id="plans"]/ul/li,昼からチェックインプラン,,,,1000
 //名前検証_TC031,,,,,,,0
-TESTTEXTID,NameTest_TC031,username,,,,,1000
+TESTGUESTNAME,NameTest_TC031,username,,,,,1000
 //確認のご連絡検証_TC031,,,,,,,0
 TESTCONTACT,contactTest_TC031,contact,希望しない,,,,1000
 //ご要望の検証_TC031,,,,,,,
@@ -455,7 +455,7 @@ TESTTEXTID,reserveHeadCountTest_TC032,head-count,9名様,,,,1000
 //追加プラン検証_TC032,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC032,//*[@id="plans"]/ul/li,朝食バイキング,,,,1000
 //名前検証_TC032,,,,,,,0
-TESTTEXTID,NameTest_TC032,username,,,,,1000
+TESTGUESTNAME,NameTest_TC032,username,,,,,1000
 //確認のご連絡検証_TC032,,,,,,,0
 TESTCONTACT,contactTest_TC032,contact,メール,,,,1000
 //ご要望の検証_TC032,,,,,,,
@@ -498,7 +498,7 @@ TESTTEXTID,reserveHeadCountTest_TC033,head-count,2名様,,,,1000
 //追加プラン検証_TC033,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC033,//*[@id="plans"],なし,,,,1000
 //名前検証_TC033,,,,,,,0
-TESTTEXTID,NameTest_TC033,username,,,,,1000
+TESTGUESTNAME,NameTest_TC033,username,,,,,1000
 //確認のご連絡検証_TC033,,,,,,,0
 TESTCONTACT,contactTest_TC033,contact,メール,,,,1000
 //ご要望の検証_TC033,,,,,,,
@@ -542,7 +542,7 @@ TESTTEXTID,reserveHeadCountTest_TC034,head-count,2名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC034,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC034,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC034,,,,,,,0
-TESTTEXTID,NameTest_TC034,username,,,,,1000
+TESTGUESTNAME,NameTest_TC034,username,,,,,1000
 //確認のご連絡検証_TC034,,,,,,,0
 TESTCONTACT,contactTest_TC034,contact,希望しない,,,,1000
 //ご要望の検証_TC034,,,,,,,
@@ -584,7 +584,7 @@ TESTTEXTID,reserveHeadCountTest_TC035,head-count,4名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC035,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC035,//*[@id="plans"]/ul/li[2],お得な観光プラン,,,,1000
 //名前検証_TC035,,,,,,,0
-TESTTEXTID,NameTest_TC035,username,,,,,1000
+TESTGUESTNAME,NameTest_TC035,username,,,,,1000
 //確認のご連絡検証_TC035,,,,,,,0
 TESTCONTACT,contactTest_TC035,contact,希望しない,,,,1000
 //ご要望の検証_TC035,,,,,,,
@@ -625,7 +625,7 @@ TESTTEXTID,reserveHeadCountTest_TC036,head-count,4名様,,,,1000
 //追加プラン検証_TC036,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC036,//*[@id="plans"],なし,,,,1000
 //名前検証_TC036,,,,,,,0
-TESTTEXTID,NameTest_TC036,username,,,,,1000
+TESTGUESTNAME,NameTest_TC036,username,,,,,1000
 //確認のご連絡検証_TC036,,,,,,,0
 TESTCONTACT,contactTest_TC036,contact,メール,,,,1000
 //ご要望の検証_TC036,,,,,,,
@@ -667,7 +667,7 @@ TESTTEXTID,reserveHeadCountTest_TC037,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC037,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC037,//*[@id="plans"]/ul/li[2],お得な観光プラン,,,,1000
 //名前検証_TC037,,,,,,,0
-TESTTEXTID,NameTest_TC037,username,,,,,1000
+TESTGUESTNAME,NameTest_TC037,username,,,,,1000
 //確認のご連絡検証_TC037,,,,,,,0
 TESTCONTACT,contactTest_TC037,contact,希望しない,,,,1000
 //ご要望の検証_TC037,,,,,,,
@@ -709,7 +709,7 @@ TESTTEXTID,reserveHeadCountTest_TC038,head-count,4名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC038,//*[@id="plans"]/ul/li[1],昼からチェックインプラン,,,,1000
 TESTTEXTX,optionPlanTest02_TC038,//*[@id="plans"]/ul/li[2],お得な観光プラン,,,,1000
 //名前検証_TC038,,,,,,,0
-TESTTEXTID,NameTest_TC038,username,,,,,1000
+TESTGUESTNAME,NameTest_TC038,username,,,,,1000
 //確認のご連絡検証_TC038,,,,,,,0
 TESTCONTACT,contactTest_TC038,contact,メール,,,,1000
 //ご要望の検証_TC038,,,,,,,
@@ -750,7 +750,7 @@ TESTTEXTID,reserveHeadCountTest_TC039,head-count,4名様,,,,1000
 //追加プラン検証_TC039,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC039,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC039,,,,,,,0
-TESTTEXTID,NameTest_TC039,username,,,,,1000
+TESTGUESTNAME,NameTest_TC039,username,,,,,1000
 //確認のご連絡検証_TC039,,,,,,,0
 TESTCONTACT,contactTest_TC039,contact,希望しない,,,,1000
 //ご要望の検証_TC039,,,,,,,
@@ -791,7 +791,7 @@ TESTTEXTID,reserveHeadCountTest_TC040,head-count,4名様,,,,1000
 //追加プラン検証_TC040,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC040,//*[@id="plans"]/ul/li,昼からチェックインプラン,,,,1000
 //名前検証_TC040,,,,,,,0
-TESTTEXTID,NameTest_TC040,username,,,,,1000
+TESTGUESTNAME,NameTest_TC040,username,,,,,1000
 //確認のご連絡検証_TC040,,,,,,,0
 TESTCONTACT,contactTest_TC040,contact,希望しない,,,,1000
 //ご要望の検証_TC040,,,,,,,
@@ -833,7 +833,7 @@ TESTTEXTID,reserveHeadCountTest_TC041,head-count,9名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC041,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC041,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC041,,,,,,,0
-TESTTEXTID,NameTest_TC041,username,,,,,1000
+TESTGUESTNAME,NameTest_TC041,username,,,,,1000
 //確認のご連絡検証_TC041,,,,,,,0
 TESTCONTACT,contactTest_TC041,contact,電話,,,,1000
 //ご要望の検証_TC041,,,,,,,
@@ -877,7 +877,7 @@ TESTTEXTID,reserveHeadCountTest_TC042,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC042,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC042,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC042,,,,,,,0
-TESTTEXTID,NameTest_TC042,username,,,,,1000
+TESTGUESTNAME,NameTest_TC042,username,,,,,1000
 //確認のご連絡検証_TC042,,,,,,,0
 TESTCONTACT,contactTest_TC042,contact,希望しない,,,,1000
 //ご要望の検証_TC042,,,,,,,
@@ -921,7 +921,7 @@ TESTTEXTID,reserveHeadCountTest_TC043,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC043,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC043,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC043,,,,,,,0
-TESTTEXTID,NameTest_TC043,username,,,,,1000
+TESTGUESTNAME,NameTest_TC043,username,,,,,1000
 //確認のご連絡検証_TC043,,,,,,,0
 TESTCONTACT,contactTest_TC043,contact,希望しない,,,,1000
 //ご要望の検証_TC043,,,,,,,
@@ -964,7 +964,7 @@ TESTTEXTID,reserveHeadCountTest_TC044,head-count,2名様,,,,1000
 //追加プラン検証_TC044,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC044,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC044,,,,,,,0
-TESTTEXTID,NameTest_TC044,username,,,,,1000
+TESTGUESTNAME,NameTest_TC044,username,,,,,1000
 //確認のご連絡検証_TC044,,,,,,,0
 TESTCONTACT,contactTest_TC044,contact,メール,,,,1000
 //ご要望の検証_TC044,,,,,,,
@@ -1007,7 +1007,7 @@ TESTTEXTID,reserveHeadCountTest_TC045,head-count,1名様,,,,1000
 //追加プラン検証_TC045,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC045,//*[@id="plans"],なし,,,,1000
 //名前検証_TC045,,,,,,,0
-TESTTEXTID,NameTest_TC045,username,,,,,1000
+TESTGUESTNAME,NameTest_TC045,username,,,,,1000
 //確認のご連絡検証_TC045,,,,,,,0
 TESTCONTACT,contactTest_TC045,contact,電話,,,,1000
 //ご要望の検証_TC045,,,,,,,
@@ -1051,7 +1051,7 @@ TESTTEXTID,reserveHeadCountTest_TC046,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC046,//*[@id="plans"]/ul/li[1],昼からチェックインプラン,,,,1000
 TESTTEXTX,optionPlanTest02_TC046,//*[@id="plans"]/ul/li[2],お得な観光プラン,,,,1000
 //名前検証_TC046,,,,,,,0
-TESTTEXTID,NameTest_TC046,username,,,,,1000
+TESTGUESTNAME,NameTest_TC046,username,,,,,1000
 //確認のご連絡検証_TC046,,,,,,,0
 TESTCONTACT,contactTest_TC046,contact,希望しない,,,,1000
 //ご要望の検証_TC046,,,,,,,
@@ -1095,7 +1095,7 @@ TESTTEXTID,reserveHeadCountTest_TC047,head-count,2名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC047,//*[@id="plans"]/ul/li[1],昼からチェックインプラン,,,,1000
 TESTTEXTX,optionPlanTest02_TC047,//*[@id="plans"]/ul/li[2],お得な観光プラン,,,,1000
 //名前検証_TC047,,,,,,,0
-TESTTEXTID,NameTest_TC047,username,,,,,1000
+TESTGUESTNAME,NameTest_TC047,username,,,,,1000
 //確認のご連絡検証_TC047,,,,,,,0
 TESTCONTACT,contactTest_TC047,contact,メール,,,,1000
 //ご要望の検証_TC047,,,,,,,
@@ -1136,7 +1136,7 @@ TESTTEXTID,reserveHeadCountTest_TC048,head-count,6名様,,,,1000
 //追加プラン検証_TC048,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC048,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC048,,,,,,,0
-TESTTEXTID,NameTest_TC048,username,,,,,1000
+TESTGUESTNAME,NameTest_TC048,username,,,,,1000
 //確認のご連絡検証_TC048,,,,,,,0
 TESTCONTACT,contactTest_TC048,contact,電話,,,,1000
 //ご要望の検証_TC048,,,,,,,
@@ -1177,7 +1177,7 @@ TESTTEXTID,reserveHeadCountTest_TC049,head-count,6名様,,,,1000
 //追加プラン検証_TC049,,,,,,,0
 TESTTEXTX,optionPlanTest01_TC049,//*[@id="plans"]/ul/li,お得な観光プラン,,,,1000
 //名前検証_TC049,,,,,,,0
-TESTTEXTID,NameTest_TC049,username,,,,,1000
+TESTGUESTNAME,NameTest_TC049,username,,,,,1000
 //確認のご連絡検証_TC049,,,,,,,0
 TESTCONTACT,contactTest_TC049,contact,メール,,,,1000
 //ご要望の検証_TC049,,,,,,,
@@ -1219,7 +1219,7 @@ TESTTEXTID,reserveHeadCountTest_TC050,head-count,1名様,,,,1000
 TESTTEXTX,optionPlanTest01_TC050,//*[@id="plans"]/ul/li[1],朝食バイキング,,,,1000
 TESTTEXTX,optionPlanTest02_TC050,//*[@id="plans"]/ul/li[2],昼からチェックインプラン,,,,1000
 //名前検証_TC050,,,,,,,0
-TESTTEXTID,NameTest_TC050,username,,,,,1000
+TESTGUESTNAME,NameTest_TC050,username,,,,,1000
 //確認のご連絡検証_TC050,,,,,,,0
 TESTCONTACT,contactTest_TC050,contact,希望しない,,,,1000
 //ご要望の検証_TC050,,,,,,,
